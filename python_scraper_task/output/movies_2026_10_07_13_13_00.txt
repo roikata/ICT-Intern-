@@ -1,0 +1,979 @@
+title: 7500
+director: Patrick Vollrath
+country: Germany, Austria, United States
+title: Ala Vaikunthapurramuloo
+director: Trivikram Srinivas
+country: India
+title: Archenemy
+director: Adam Egypt Mortimer
+country: United States, United Kingdom
+title: Asuraguru
+director: A.Raajdheep
+country: India
+title: Aswathama
+director: Ramana Teja
+country: India
+title: Attack
+director: Lakshya Raj Anand
+country: India
+title: Ava
+director: Tate Taylor
+country: United States
+title: Bad Boys for Life
+director: Adil & Bilall
+country: United States
+title: Bamfaad
+director: Ranjan Chandel
+country: India
+title: Bheeshma
+director: Venky Kudumula
+country: India
+title: Birds of Prey
+director: Cathy Yan
+country: United States
+title: Bloodshot
+director: David S. F. Wilson
+country: United States
+title: Chick Fight
+director: Paul Leyden
+country: United States
+title: Coffee & Kareem
+director: Michael Dowse
+country: United States
+title: Cut Throat City
+director: RZA
+country: United States
+title: Dead Reckoning
+director: Andrzej Bartkowiak
+country: United States
+title: Deliver Us from Evil
+director: Hong Wong-Chan
+country: South Korea
+title: Disco Raja
+director: Vi Anand
+country: India
+title: Earth and Blood
+director: Julien Leclercq
+country: France
+title: Enter the Fat Dragon
+director: Kenji Tanigaki, Wong Jing
+country: China
+title: Extraction
+director: Sam Hargrave
+country: United States
+title: Fatale
+director: Deon Taylor
+country: United States
+title: Fatman
+director: Eshom NelmsIan Nelms
+country: United States
+title: Force of Nature
+director: Michael Polish
+country: United States
+title: The Gentlemen
+director: Guy Ritchie
+country: United Kingdom, United States
+title: Ghosts of War
+director: Eric Bress
+country: United Kingdom, Bulgaria
+title: Greyhound
+director: Aaron Schneider
+country: United States
+title: Guns Akimbo
+director: Jason Lei Howden
+country: New Zealand, United Kingdom, Germany
+title: Guns of Banaras
+director: Sekhar Suri
+country: India
+title: Hitman: Agent Jun
+director: Choi Won-sub
+country: South Korea
+title: Honest Thief
+director: Mark Williams
+country: United States
+title: I Am Vengeance: Retaliation
+director: Ross Boyask
+country: United Kingdom
+title: Jiu Jitsu
+director: Dimitri Logothetis
+country: United States
+title: Justice League Dark: Apokolips War
+director: Matt Peters,Christina Sotta
+country: United States
+title: The Last Days of American Crime
+director: Olivier Megaton
+country: United States
+title: Love and Monsters
+director: Michael Matthews
+country: United States
+title: Mafia: Chapter 1
+director: Karthick Naren
+country: India
+title: Malang
+director: Mohit Suri
+country: India
+title: Monster Hunter
+director: Paul W. S. Anderson
+country: United States
+title: Mortal Kombat Legends: Scorpion's Revenge
+director: Ethan Spaulding
+country: United States
+title: Mulan
+director: Niki Caro
+country: United States
+title: My Spy
+director: Peter Segal
+country: United States
+title: The Old Guard
+director: Gina Prince-Bythewood
+country: United States
+title: Palasa 1978
+director: Karuna Kumar
+country: India
+title: Pasal Kau!
+director: Adrian Teh
+country: Malaysia
+title: Peninsula
+director: Yeon Sang-ho
+country: South Korea
+title: Project Power
+director: Henry Joost, Ariel Schulman
+country: United States
+title: The Rhythm Section
+director: Reed Morano
+country: United States
+title: Rogue
+director: M. J. Bassett
+country: United States
+title: Sarileru Neekevvaru
+director: Anil Ravipudi
+country: India
+title: Shivarjuna
+director: Shiva Thejas
+country: India
+title: Sniper: Assassin's End
+director: Kaare Andrews
+country: United States
+title: Sonic the Hedgehog
+director: Jeff Fowler
+country: United States
+title: Spenser Confidential
+director: Peter Berg
+country: United States
+title: Survive the Night
+director: Matt Eskandari
+country: United States
+title: Superintelligence
+director: Ben Falcone
+country: United States
+title: Superman: Man of Tomorrow
+director: Chris Palmer
+country: United States
+title: Superman: Red Son
+director: Sam Liu
+country: United States
+title: The Swordsman
+director: Choi Jae-hoon
+country: South Korea
+title: Tanhaji
+director: Om Raut
+country: India
+title: The Tax Collector
+director: David Ayer
+country: United States
+title: Tenet
+director: Christopher Nolan
+country: United Kingdom, United States
+title: V
+director: Mohana Krishna Indraganti
+country: India
+title: Vanguard
+director: Stanley Tong
+country: China
+title: We Can Be Heroes
+director: Robert Rodriguez
+country: United States
+title: Wonder Woman 1984
+director: Patty Jenkins
+country: United States
+title: Aaraattu
+director: B. Unnikrishnan
+country: India
+title: Alludu Adhurs
+director: Santosh Srinivas
+country: India
+title: Army of the Dead
+director: Zack Snyder
+country: United States
+title: Army of Thieves
+director: Matthias Schweighöfer
+country: United States
+title: Batman: Soul of the Dragon
+director: Sam Liu
+country: United States
+title: Batman: The Long Halloween
+director: Chris Palmer
+country: United States
+title: Bhuj: The Pride of India
+director: Abhishek Dudhaiya
+country: India
+title: Black Widow
+director: Cate Shortland
+country: United States
+title: Boss Level
+director: Joe Carnahan
+country: United States
+title: Bright: Samurai Soul
+director: Kyōhei Ishiguro
+country: United States,Japan
+title: Cop Secret
+director: Hannes Þór Halldórsson
+country: Iceland
+title: Copshop
+director: Joe Carnahan
+country: United States
+title: Dangerous
+director: David Hackl
+country: CanadaUnited States
+title: Eternals
+director: Chloé Zhao
+country: United States
+title: F9
+director: Justin Lin
+country: United States
+title: The Forever Purge
+director: Everardo Gout
+country: United States
+title: Free Guy
+director: Shawn Levy
+country: United States
+title: Godzilla vs. Kong
+director: Adam Wingard
+country: United States
+title: Gunpowder Milkshake
+director: Navot Papushado
+country: United States
+title: The Hitman's Wife's Bodyguard
+director: Patrick Hughes
+country: United States
+title: The Ice Road
+director: Jonathan Hensleigh
+country: United States
+title: Infinite
+director: Antoine Fuqua
+country: United States
+title: Jolt
+director: Tanya Wexler
+country: United States
+title: Jungle Cruise
+director: Jaume Collet-Serra
+country: United States
+title: Justice Society: World War II
+director: Jeff Wamester
+country: United States
+title: K.G.F: Chapter 2
+director: Prashanth Neel
+country: India
+title: Kate
+director: Cedric Nicolas-Troyan
+country: United States
+title: The King's Man
+director: Matthew Vaughn
+country: United States
+title: Krack
+director: Gopichand Malineni
+country: India
+title: The Last Mercenary
+director: David Charhon
+country: United States
+title: Major Grom: Plague Doctor
+director: Oleg Trofim
+country: Russia
+title: The Marksman
+director: Robert Lorenz
+country: United States
+title: Master
+director: Lokesh Kanagaraj
+country: India
+title: The Matrix Resurrections
+director: Lana Wachowski
+country: United States
+title: Mortal Kombat
+director: Simon McQuoid
+country: United States
+title: No Time to Die
+director: Cary Joji Fukunaga
+country: United Kingdom, United States
+title: Nobody
+director: Ilya Naishuller
+country: United States
+title: The Protégé
+director: Martin Campbell
+country: United States
+title: Raging Fire
+director: Benny Chan
+country: Hong Kong
+China
+title: Ram
+director: Jeethu Joseph
+country: India
+title: Raya and the Last Dragon
+director: Don Hall, Carlos López Estrada
+country: United States
+title: Red
+director: Kishore Tirumala
+country: India
+title: Red Notice
+director: Rawson Marshall Thurber
+country: United States
+title: RRR
+director: S. S. Rajamouli
+country: India
+title: Satyameva Jayate 2
+director: Milap Zaveri
+country: India
+title: Sheenogai
+director: Abu Aleeha
+country: Pakistan
+title: Shang-Chi and the Legend of the Ten Rings
+director: Destin Daniel Cretton
+country: United States
+title: Snake Eyes
+director: Robert Schwentke
+country: United States
+title: Spider-Man: No Way Home
+director: Jon Watts
+country: United States
+title: The Suicide Squad
+director: James Gunn
+country: United States
+title: Sweet Girl
+director: Brian Andrew Mendoza
+country: United States
+title: Thunder Force
+director: Ben Falcone
+country: United States
+title: The Tomorrow War
+director: Chris McKay
+country: United States
+title: Vanquish
+director: George Gallo
+country: United States
+title: Venom: Let There Be Carnage
+director: Andy Serkis
+country: United States
+title: Wild Dog
+director: Ashishor Solomon
+country: India
+title: Without Remorse
+director: Stefano Sollima
+country: United States
+title: Wrath of Man
+director: Guy Ritchie
+country: United States
+title: Zack Snyder's Justice League
+director: Zack Snyder
+country: United States
+title: The 355
+director: Simon Kinberg
+country: United States
+title: All Quiet on the Western Front
+director: Edward Berger
+country: Germany
+title: Almighty Zeus
+director: Chris Soriano
+country: United States
+title: Ambulance
+director: Michael Bay
+country: United States
+title: Avatar: The Way of Water
+director: James Cameron
+country: United States
+title: The Batman
+director: Matt Reeves
+country: United States
+title: Beast
+director: Nelson Dilipkumar
+country: India
+title: Black Adam
+director: Jaume Collet-Serra
+country: United States
+title: Black Panther: Wakanda Forever
+director: Ryan Coogler
+country: United States
+title: Brahmāstra
+director: Ayan Mukerji
+country: India
+title: Bullet Train
+director: David Leitch
+country: United States
+title: The Buy Bust Queen
+director: JR Olinares
+country: Philippines
+title: Catwoman: Hunted
+director: Shinsuke Terasawa
+country: United States
+title: A Day to Die
+director: Wes Miller
+country: United States
+title: Day Shift
+director: J. J. Perry
+country: United States
+title: Doctor Strange in the Multiverse of Madness
+director: Sam Raimi
+country: United States
+title: The Gray Man
+director: Anthony RussoJoe Russo
+country: United States
+title: Jurassic World Dominion
+director: Colin Trevorrow
+country: United States
+title: The Lost City
+director: Adam Nee, Aaron Nee
+country: United States
+title: The Man from Toronto
+director: Patrick Hughes
+country: United States
+title: Morbius
+director: Daniel Espinosa
+country: United States
+title: Salaar
+director: Prashanth Neel
+country: India
+title: Samaritan
+director: Julius Avery
+country: United States
+title: Secret Headquarters
+director: Henry Joost,Ariel Schulman
+country: United States
+title: Security Academy
+director: Karlo Conge Montero
+country: Philippines
+title: Sisu
+director: Jalmari Helander
+country: Finland
+title: Sonic the Hedgehog 2
+director: Jeff Fowler
+country: United States
+title: Thor: Love and Thunder
+director: Taika Waititi
+country: United States
+title: Top Gun: Maverick
+director: Joseph Kosinski
+country: United States
+title: Uncharted
+director: Ruben Fleischer
+country: United States
+title: Vikrant Rona
+director: Anup Bhandari
+country: India
+title: Violent Night
+director: Tommy Wirkola
+country: United States
+title: White Elephant
+director: Jesse V. Johnson
+country: United States
+title: 65
+director: Scott Beck, Bryan Woods
+country: United States
+title: Ant-Man and the Wasp: Quantumania
+director: Peyton Reed
+country: United States
+title: Aquaman and the Lost Kingdom
+director: James Wan
+country: United States
+title: Blue Beetle
+director: Ángel Manuel Soto
+country: United States
+title: The Covenant
+director: Guy Ritchie
+country: United States
+title: Dungeons & Dragons: Honor Among Thieves
+director: John Francis Daley, Jonathan Goldstein
+country: United States
+title: The Equalizer 3
+director: Antoine Fuqua
+country: United States
+title: Expend4bles
+director: Scott Waugh
+country: United States
+title: Extraction 2
+director: Sam Hargrave
+country: United States
+title: The Family Plan
+director: Simon Cellan Jones
+country: United States
+title: Fast X
+director: Louis Leterrier
+country: United States
+title: The Flash
+director: Andy Muschietti
+country: United States
+title: Freelance
+director: Pierre Morel
+country: United States
+title: Guardians of the Galaxy Vol. 3
+director: James Gunn
+country: United States
+title: Heart of Stone
+director: Tom Harper
+country: United States
+title: Indiana Jones and the Dial of Destiny
+director: James Mangold
+country: United States
+title: John Wick: Chapter 4
+director: Chad Stahelski
+country: United States
+title: The Killer
+director: David Fincher
+country: United States
+title: The Marvels
+director: Nia DaCosta
+country: United States
+title: Mayhem!
+director: Xavier Gens
+country: France
+title: Meg 2: The Trench
+director: Ben Wheatley
+country: United States, China
+title: Mission: Impossible – Dead Reckoning Part One
+director: Christopher McQuarrie
+country: United States
+title: Operation Fortune: Ruse de Guerre
+director: Guy Ritchie
+country: United States
+title: Penduko
+director: Jason Paul Laxamana
+country: Philippines
+title: Plane
+director: Jean-François Richet
+country: United States
+title: Shazam! Fury of the Gods
+director: David F. Sandberg
+country: United States
+title: Shotgun Wedding
+director: Jason Moore
+country: United States
+title: Spider-Man: Across the Spider-Verse
+director: Joaquim Dos Santos,Kemp Powers,Justin K. Thompson
+country: United States
+title: Target List
+director: Andrew Arguello and MJ Palo
+country: United States
+title: Taxi
+director: Harish Sajja
+country: India
+title: Teenage Mutant Ninja Turtles: Mutant Mayhem
+director: Jeff Rowe
+country: United States
+title: Transformers: Rise of the Beasts
+director: Steven Caple Jr.
+country: United States
+title: Tricycle Driver, Kasangga Mo
+director: Karlo Conge MonteroSammy Ibarra
+country: Philippines
+title: Triggered
+director: Richard V. Somes
+country: Philippines
+title: Air Force One Down
+director: James Bamford
+country: United States
+title: Ang Siga ng Tondo... Daw!
+director: Rhene Imperial
+country: Philippines
+title: Argylle
+director: Matthew Vaughn
+country: United States
+title: Bad Boys: Ride or Die
+director: Adil & Bilall
+country: United States
+title: The Beekeeper
+director: David Ayer
+country: United States
+title: Beverly Hills Cop: Axel F
+director: Mark Molloy
+country: United States
+title: The Blood Brothers
+director: Cesar Montano
+country: Philippines
+title: Borderlands
+director: Eli Roth
+country: United States
+title: Canary Black
+director: Pierre Morel
+country: United States
+title: Carry-On
+director: Jaume Collet-Serra
+country: United States
+title: City Hunter
+director: Yuichi Sato
+country: Japan
+title: Civil War
+director: Alex Garland
+country: United States
+title: Deadpool & Wolverine
+director: Shawn Levy
+country: United States
+title: Despicable Me 4
+director: Chris Renaud, Patrick Delage
+country: United States
+title: The Fall Guy
+director: David Leitch
+country: United States
+title: Furiosa: A Mad Max Saga
+director: George Miller
+country: United States, Australia
+title: Godzilla x Kong: The New Empire
+director: Adam Wingard
+country: United States
+title: Heneral Bantag: Anak ng Cordillera
+director: Perry de Guzman
+country: Philippines
+title: Hit Man
+director: Richard Linklater
+country: United States
+title: The Killer's Game
+director: J. J. Perry
+country: United States
+title: Kraven the Hunter
+director: J. C. Chandor
+country: United States
+title: Kung Fu Panda 4
+director: Mike Mitchell,Stephanie Ma Stine
+country: United States
+title: Madame Web
+director: S. J. Clarkson
+country: United States
+title: The Ministry of Ungentlemanly Warfare
+director: Guy Ritchie
+country: United States
+title: Rebel Ridge
+director: Jeremy Saulnier
+country: United States
+title: Red One
+director: Jake Kasdan
+country: United States
+title: Sonic the Hedgehog 3
+director: Jeff Fowler
+country: United States
+title: The Thundermans Return
+director: Trevor Kirschner
+country: United States
+title: Trigger Warning
+director: Mouly Surya
+country: United States
+title: The Union
+director: Julian Farino
+country: United States
+title: Venom: The Last Dance
+director: Kelly Marcel
+country: United States
+title: Absolute Dominion
+director: Lexi Alexander
+country: United States
+title: The Accountant 2
+director: Gavin O'Connor
+country: United States
+title: Alfa and Bravo
+director: Aaron Otoya
+country: Peru
+title: The Amateur
+director: James Hawes
+country: United States
+title: Anaconda
+director: Tom Gormican
+country: United States
+title: Avatar: Fire and Ash
+director: James Cameron
+country: United States
+title: Back in Action
+director: Seth Gordon
+country: United States
+title: Ballerina
+director: Len Wiseman
+country: United States
+title: Captain America: Brave New World
+director: Julius Onah
+country: United States
+title: Cleaner
+director: Martin Campbell
+country: United Kingdom
+title: Den of Thieves 2: Pantera
+director: Christian Gudegast
+country: United States
+title: F1
+director: Joseph Kosinski
+country: United States
+title: The Family Plan 2
+director: Simon Cellan Jones
+country: United States
+title: The Fantastic Four: First Steps
+director: Matt Shakman
+country: United States
+title: Flight Risk
+director: Mel Gibson
+country: United States
+title: Fountain of Youth
+director: Guy Ritchie
+country: United States
+title: G20
+director: Patricia Riggen
+country: United States
+title: The Gorge
+director: Scott Derrickson
+country: United States
+title: Havoc
+director: Gareth Evans
+country: United States
+title: Heads of State
+director: Ilya Naishuller
+country: United States
+title: Into the Deep
+director: Christian Sesma
+country: United States
+title: Jurassic World Rebirth
+director: Gareth Edwards
+country: United States
+title: KPop Demon Hunters
+director: Maggie Kang, Chris Appelhans
+country: United States
+title: The Legend Hunters
+director: Victoria Mahoney
+country: China
+title: LifeHack
+director: Ronan Corrigan
+country: United Kingdom
+title: Mission: Impossible – The Final Reckoning
+director: Christopher McQuarrie
+country: United States
+title: Nobody 2
+director: Timo Tjahjanto
+country: United States
+title: Novocaine
+director: Dan Berk,Robert Olsen
+country: United States
+title: The Old Guard 2
+director: Victoria Mahoney
+country: United States
+title: Play Dirty
+director: Shane Black
+country: United States
+title: Playdate
+director: Luke Greenfield
+country: United States
+title: Primitive War
+director: Luke Sparke
+country: Australia
+title: Red Sonja
+director: M. J. Bassett
+country: United States
+title: The Running Man
+director: Edgar Wright
+country: United States
+title: Sacrifice
+director: Romain Gavras
+country: United Kingdom
+title: Safe House
+director: Jamie Marshall
+country: United States
+title: Shadow Force
+director: Joe Carnahan
+country: United States
+title: Sinners
+director: Ryan Coogler
+country: United States
+title: Sisu: Road to Revenge
+director: Jalmari Helander
+country: Finland
+title: Superman
+director: James Gunn[257]
+country: United States
+title: The Toxic Avenger
+director: Macon Blair
+country: United States
+title: Thunderbolts*
+director: Jake Schreier
+country: United States
+title: Tron: Ares
+director: Joachim Rønning
+country: United States
+title: A Working Man
+director: David Ayer
+country: United States
+title: Apex
+director: Baltasar Kormákur
+country: United States
+title: Avengers: Doomsday
+director: Anthony and Joseph Russo
+country: United States
+title: Balls Up
+director: Peter Farrelly
+country: United States
+title: Deep Water
+director: Renny Harlin
+country: United States
+title: Ghost Soldier
+director: William Eubank
+country: United States
+title: How to Rob a Bank
+director: David Leitch
+country: United States
+title: In the Grey
+director: Guy Ritchie
+country: United States
+title: Jack Ryan: Ghost War
+director: Andrew Bernstein
+country: United States
+title: The Mandalorian and Grogu
+director: Jon Favreau
+country: United States
+title: Masters of the Universe
+director: Travis Knight
+country: United States
+title: Matchbox: The Movie
+director: Sam Hargrave
+country: United States
+title: Mayday
+director: Jonathan Goldstein,John Francis Daley
+country: United States
+title: Mike & Nick & Nick & Alice
+director: BenDavid Grabinski
+country: United States
+title: Mortal Kombat II
+director: Simon McQuoid
+country: United States
+title: Mutiny
+director: Jean-François Richet
+country: United States
+title: The Odyssey
+director: Christopher Nolan
+country: United States
+title: Over Your Dead Body
+director: Jorma Taccone
+country: United States
+title: The Rip
+director: Joe Carnahan
+country: United States
+title: Pretty Lethal
+director: Vicky Jewson
+country: United States
+title: Shelter
+director: Ric Roman Waugh
+country: United States
+title: Spider-Man: Brand New Day
+director: Destin Daniel Cretton
+country: United States
+title: Street Fighter
+director: Kitao Sakurai
+country: United States
+title: Supergirl
+director: Craig Gillespie[290]
+country: United States
+title: Vijaynagar'er Hirey
+director: Chandrasish Ray
+country: United States
+title: Violent Night 2
+director: Tommy Wirkola
+country: United States
+title: War Machine
+director: Patrick Hughes
+country: United States
+title: World Breaker
+director: Brad Anderson
+country: United States
+title: The Wrecking Crew
+director: Ángel Manuel Soto
+country: United States
+title: Your Mother Your Mother Your Mother
+director: Bassam Tariq
+country: United States
+title: 24 Jump Street
+director: Rodney Rothman
+country: United States
+title: Alone at Dawn
+director: Ron Howard
+country: United States
+title: Animal Friends
+director: Peter Atencio
+country: United States
+title: Avengers: Secret Wars
+director: Anthony and Joseph Russo
+country: United States
+title: The Beekeeper 2
+director: Timo Tjahjanto
+country: United States
+title: F.A.S.T.
+director: Ben Richardson
+country: United States
+title: Godzilla x Kong: Supernova
+director: Grant Sputore
+country: United States
+title: John Rambo
+director: Jalmari Helander
+country: United States
+title: Man of Tomorrow
+director: James Gunn
+country: United States
+title: Sonic the Hedgehog 4
+director: Jeff Fowler
+country: United States
+title: Spider-Man: Beyond the Spider-Verse
+director: Bob Persichetti,Justin K. Thompson
+country: United States
+title: Star Wars: Starfighter
+director: Shawn Levy
+country: United States
+title: Untitled Teenage Mutant Ninja Turtles: Mutant Mayhem sequel
+director: Jeff Rowe
+country: United States
+title: Voltron
+director: Rawson Marshall Thurber
+country: United States
+title: Wife & Dog
+director: Guy Ritchie
+country: United States
+title: The Batman: Part II
+director: Matt Reeves
+country: United States
+title: Black Panther 3
+director: Ryan Coogler
+country: United States
+title: Call of Duty
+director: Peter Berg
+country: United States
+title: Days of Thunder 2
+director: Jonathan Levine
+country: United States
+title: Dynamic Duo
+director: Arthur Mintz
+country: United States
+title: Elden Ring
+director: Alex Garland
+country: United States
+title: Fast Forever
+director: Louis Leterrier
+country: United States
+title: Ghost Rider
+director: Shawn Levy
+country: United States
+title: Helldivers
+director: Justin Lin
+country: United States
+title: Incredibles 3
+director: Peter Sohn
+country: United States
+title: Miami Vice ’85
+director: Joseph Kosinski
+country: United States
+title: Mission: Granny
+director: Toni Weiss
+country: United Kingdom
+title: Untitled Sonic the Hedgehog spinoff film
+director: 
+country: United States
+title: X-Men
+director: Jake Schreier
+country: United States
+title: Avatar 4
+director: James Cameron
+country: United States

@@ -1,0 +1,226 @@
+title: 7500
+director: Patrick Vollrath
+country: Germany, Austria, United States
+title: Ala Vaikunthapurramuloo
+director: Trivikram Srinivas
+country: India
+title: Archenemy
+director: Adam Egypt Mortimer
+country: United States, United Kingdom
+title: Asuraguru
+director: A.Raajdheep
+country: India
+title: Aswathama
+director: Ramana Teja
+country: India
+title: Attack
+director: Lakshya Raj Anand
+country: India
+title: Ava
+director: Tate Taylor
+country: United States
+title: Bad Boys for Life
+director: Adil & Bilall
+country: United States
+title: Bamfaad
+director: Ranjan Chandel
+country: India
+title: Bheeshma
+director: Venky Kudumula
+country: India
+title: Birds of Prey
+director: Cathy Yan
+country: United States
+title: Bloodshot
+director: David S. F. Wilson
+country: United States
+title: Chick Fight
+director: Paul Leyden
+country: United States
+title: Coffee & Kareem
+director: Michael Dowse
+country: United States
+title: Cut Throat City
+director: RZA
+country: United States
+title: Dead Reckoning
+director: Andrzej Bartkowiak
+country: United States
+title: Deliver Us from Evil
+director: Hong Wong-Chan
+country: South Korea
+title: Disco Raja
+director: Vi Anand
+country: India
+title: Earth and Blood
+director: Julien Leclercq
+country: France
+title: Enter the Fat Dragon
+director: Kenji Tanigaki, Wong Jing
+country: China
+title: Extraction
+director: Sam Hargrave
+country: United States
+title: Fatale
+director: Deon Taylor
+country: United States
+title: Fatman
+director: Eshom NelmsIan Nelms
+country: United States
+title: Force of Nature
+director: Michael Polish
+country: United States
+title: The Gentlemen
+director: Guy Ritchie
+country: United Kingdom, United States
+title: Ghosts of War
+director: Eric Bress
+country: United Kingdom, Bulgaria
+title: Greyhound
+director: Aaron Schneider
+country: United States
+title: Guns Akimbo
+director: Jason Lei Howden
+country: New Zealand, United Kingdom, Germany
+title: Guns of Banaras
+director: Sekhar Suri
+country: India
+title: Hitman: Agent Jun
+director: Choi Won-sub
+country: South Korea
+title: Honest Thief
+director: Mark Williams
+country: United States
+title: I Am Vengeance: Retaliation
+director: Ross Boyask
+country: United Kingdom
+title: Jiu Jitsu
+director: Dimitri Logothetis
+country: United States
+title: Justice League Dark: Apokolips War
+director: Matt Peters,Christina Sotta
+country: United States
+title: The Last Days of American Crime
+director: Olivier Megaton
+country: United States
+title: Love and Monsters
+director: Michael Matthews
+country: United States
+title: Mafia: Chapter 1
+director: Karthick Naren
+country: India
+title: Malang
+director: Mohit Suri
+country: India
+title: Monster Hunter
+director: Paul W. S. Anderson
+country: United States
+title: Mortal Kombat Legends: Scorpion's Revenge
+director: Ethan Spaulding
+country: United States
+title: Mulan
+director: Niki Caro
+country: United States
+title: My Spy
+director: Peter Segal
+country: United States
+title: The Old Guard
+director: Gina Prince-Bythewood
+country: United States
+title: Palasa 1978
+director: Karuna Kumar
+country: India
+title: Pasal Kau!
+director: Adrian Teh
+country: Malaysia
+title: Peninsula
+director: Yeon Sang-ho
+country: South Korea
+title: Project Power
+director: Henry Joost, Ariel Schulman
+country: United States
+title: The Rhythm Section
+director: Reed Morano
+country: United States
+title: Rogue
+director: M. J. Bassett
+country: United States
+title: Sarileru Neekevvaru
+director: Anil Ravipudi
+country: India
+title: Shivarjuna
+director: Shiva Thejas
+country: India
+title: Sniper: Assassin's End
+director: Kaare Andrews
+country: United States
+title: Sonic the Hedgehog
+director: Jeff Fowler
+country: United States
+title: Spenser Confidential
+director: Peter Berg
+country: United States
+title: Survive the Night
+director: Matt Eskandari
+country: United States
+title: Superintelligence
+director: Ben Falcone
+country: United States
+title: Superman: Man of Tomorrow
+director: Chris Palmer
+country: United States
+title: Superman: Red Son
+director: Sam Liu
+country: United States
+title: The Swordsman
+director: Choi Jae-hoon
+country: South Korea
+title: Tanhaji
+director: Om Raut
+country: India
+title: The Tax Collector
+director: David Ayer
+country: United States
+title: Tenet
+director: Christopher Nolan
+country: United Kingdom, United States
+title: V
+director: Mohana Krishna Indraganti
+country: India
+title: Vanguard
+director: Stanley Tong
+country: China
+title: We Can Be Heroes
+director: Robert Rodriguez
+country: United States
+title: Wonder Woman 1984
+director: Patty Jenkins
+country: United States
+title: Aaraattu
+director: B. Unnikrishnan
+country: India
+title: Alludu Adhurs
+director: Santosh Srinivas
+country: India
+title: Army of the Dead
+director: Zack Snyder
+country: United States
+title: Army of Thieves
+director: Matthias Schweighöfer
+country: United States
+title: Batman: Soul of the Dragon
+director: Sam Liu
+country: United States
+title: Batman: The Long Halloween
+director: Chris Palmer
+country: United States
+title: Bhuj: The Pride of India
+director: Abhishek Dudhaiya
+country: India
+title: Black Widow
+director: Cate Shortland
+country: United States
+title: Boss Level
+director: Joe Carnahan
+country: United States
+title: Bright: Samurai Soul
